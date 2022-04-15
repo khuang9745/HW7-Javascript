@@ -9,7 +9,7 @@ window.addEventListener("load", function() {
 	video.autoplay = false
 	video.loop = false
 	//console.log("The current volume is " + video.volume)
-	document.querySelector("#volume").innerHTML = video.volume * 100+"%"
+
 
 }); 
 
